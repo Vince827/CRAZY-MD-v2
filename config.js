@@ -14,7 +14,7 @@ global.gurl = 'https://instagram.com/' // add your username
 global.sudo = process.env.SUDO || "2348069918096"
 global.devs = "2348069918096";
 global.website = 'https://github.com/CrazyPrince/CRAZY-MD' //wa.me/+91000000000000
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/984e15c49561a5dd9d112.jpg'
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/7d0ca61dfa3985b03c1ad.mp4'
 
 
 
@@ -52,7 +52,7 @@ module.exports = {
     APP_NAME: process.env.HEROKU_APP_NAME === undefined ? 'zeropgg' : process.env.HEROKU_APP_NAME
 },
   VERSION: process.env.VERSION === undefined ? 'v.0.0.1' : process.env.VERSION,
-  LANG: process.env.THEME|| 'CRAZY',
+  LANG: process.env.THEME|| 'VINCE',
   WORKTYPE: process.env.WORKTYPE === undefined ? 'private' : process.env.WORKTYPE,
   LG: process.env.LG === undefined ? 'false' : process.env.LG,
 };
